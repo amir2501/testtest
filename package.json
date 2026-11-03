@@ -1,0 +1,10 @@
+{
+  "name": "ecopulse",
+  "version": "1.0.0",
+  "description": "EcoPulse \u2014 Know. Act. Track. Browser-only environmental participation prototype.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true
+}
